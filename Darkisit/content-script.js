@@ -1,0 +1,10 @@
+document.getElementsByClassName("content-wrapper")[0].style.backgroundColor="#232728";
+document.getElementsByClassName("content-wrapper")[0].style.color="white";
+document.getElementsByClassName("box-body no-padding clearfix")[0].style.backgroundColor="#1A1D1E";
+document.getElementsByClassName("box-body no-padding clearfix")[0].style.color="green";
+document.getElementsByClassName("box box-primary")[0].style.color="white";
+document.getElementsByClassName("main-sidebar")[0].style.backgroundColor="#1A1D1E";
+document.getElementsByClassName("navbar")[0].style.backgroundColor="#1A1D1E";
+document.getElementsByClassName("main-footer")[0].style.backgroundColor="#1A1D1E"; 
+document.getElementsByClassName("logo")[0].style.backgroundColor="#1A1D1E";  
+alert("Gracias por usar mi extension, cualquier bug visual no dudes en reportarmela al correo: marlonstivenprod@ufps.edu.co");

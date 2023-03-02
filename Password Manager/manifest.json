@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Password manager",
+    "description": "Administrador de contraseñas",
+    "version": "1",
+    "icons": {
+        "128": "img/icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "storage"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
