@@ -1,7 +1,8 @@
 chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
+
   if (request.accion === "almacenarCredenciales") {
     const inputs = document.getElementsByTagName("input");
-
+    let paginas = [];
     function Pagina(user, password){
       this.user = user;
       this.password = password;
@@ -34,11 +35,17 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
       if (type == "password" && (username.includes("password") || id.includes("password") || id.includes("pass"))) {
         input.style.backgroundColor = "blue";
         var valPass = input.value;
-        console.log("Campo de contraseña encontrado: " + username + " " + id + " " + type);
       }
     }
-    var pag = new Pagina(valUser, valPass);
-    localStorage.setItem("pagina", pag)
-    console.log(localStorage.getItem("pagina"));
+    if(localStorage.getItem("paginas") != undefined){
+      paginas = JSON.parse(localStorage.getItem("paginas"));
+    }    
+    var pag = new Pagina(valUser, valPass)
+    paginas.push(pag);
+    localStorage.setItem("paginas",JSON.stringify(paginas));
+    //localStorage.setItem("pagina", localStorage.getItem+";"+JSON.stringify (new Pagina(valUser, valPass)));
+    //console.log(pag);
+    //localStorage.setItem("pagina", JSON.stringify(pag))   
+    console.log(/*JSON.parse(*/localStorage.getItem("paginas")/*)*/);
   }
 });
