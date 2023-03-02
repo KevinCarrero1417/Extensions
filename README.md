@@ -10,6 +10,7 @@ _Bienvenido  a nuestro repositorio, Somos Marlon Prado y Kevin Castro, ¡ gusto 
     + [¿Que problema se desea aportar o solventar?](#problema)
 
 - [Arquitectura de una Extension en Google Chrome](#arquitectura)
+    + [Manifest.json](#manifest)
  
 
 
@@ -42,9 +43,12 @@ Sin embargo, aunque la arquitectura defina la importancia de pop ups, actions y 
 ### Manifest,json, caracteristicas e importancia
 *Manifest.json es un fichero principal donde se detalla la informacion de la extension, los cuales son el Nombre de la extension, Descripcion de la extension, version de la extension y version del Manifiesto (Actualmente la version del manifiesto es 3)* 
 
-
+### manifest
 Manifiest.json no es un simple archivo de informacion en detalle, tambien abarca los permisos otorgados a la aplicacion, los iconos y logos de la extension, las acciones como la capacidad de inscrustar Javascript en la web, entre otras
 
+Ademas, una extension aparte de su  manifest.json donde describe informacion detallada de la extension, tambien se destaca por disponer de una arquitectura donde genera una jerarquia de almacenamiento de los ficheros y/o contenido que forma parte de la extension.
+![arqui](https://wd.imgix.net/image/BhuKGJaIeLNPW9ehns59NfwqKxF2/Txq5CxeXjQz7i4wmP8zO.png?auto=format&w=439)
+> Jerarquia de almacenamiento de ficheros de una Extension en Google Chrome
 # autores
 
 * Marlon Stiven Prado
