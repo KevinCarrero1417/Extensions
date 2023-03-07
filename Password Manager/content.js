@@ -43,9 +43,6 @@ chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
     var pag = new Pagina(valUser, valPass)
     paginas.push(pag);
     localStorage.setItem("paginas",JSON.stringify(paginas));
-    //localStorage.setItem("pagina", localStorage.getItem+";"+JSON.stringify (new Pagina(valUser, valPass)));
-    //console.log(pag);
-    //localStorage.setItem("pagina", JSON.stringify(pag))   
     console.log(/*JSON.parse(*/localStorage.getItem("paginas")/*)*/);
   }
 });
