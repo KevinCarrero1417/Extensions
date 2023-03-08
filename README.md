@@ -48,10 +48,20 @@ El desarrollo de cada unas de los procesos de la extension es comprensiblemente 
 ![Diagrama de Flujo](https://s2.gifyu.com/images/FUNCIONALIDADES-1.gif)
 > Diagrama de Flujo de Darkisit, dar click a la imagen llegado el caso no se reproduzca
 
-## Instalacion
+## Instalacion 
 
-Para instalar mi extension tiene 2 caminos, la primera manera e
+Para instalar mi extension tiene 2 caminos, la primera manera es descargando de manera directa el repositorio en formato .zip, para ello iremos al icono en color verde donde dice " Code" una vez clickeado ahi, se procede a descargar el repositorio usando la opcion 'Download Zip', una ilustraccion sencilla se evidencia a continuacion:
+![Descarga Directa](https://i.ibb.co/sWQbpNB/1-click.png)
+> Descarga directa del repositorio en formato ZIP
 
+TLa otra manera de descargar el repositorio es a traves de una instancia de la consola de comando de git, si de casualidad no tienes git instalado, puedes decargarlo a traves del [siguiente enlace](https://git-scm.com/downloads). Una vez abierto y/o instalado y abierto una instancia del cmd, procederemos a ejecutar la siguiente linea de codigo:
+</br>
+<code>git clone https://github.com/KevinCarrero1417/Extensions.git</code>
+</br>
+Una vez clonado el repositorio, procederemos a instalar la extension, para ello en nuestro navegador chrome iremos a la siguiente URL
+<code>chrome://extensions/</code>
+
+Una vez abierto la interfaz de extensiones procederemos a instalar 
 # extension
 ### significado 
 Una extension es una herramienta que permite ampliar o extender las funcionalidades del navegador, las extensiones aportan a la automatizacion de ciertas tareas como puede ser validacion de formulario, descarga de contenido mutilmedia, bodega de contraseñas, entre otros... Otras extensiones aportan en mejorar la experiencia de usuario como puede ser bloqueador de anuncios, aumentar la cantidad de volumen permitido, bloquear cookies o pop ups molestos, etc
@@ -109,7 +119,7 @@ En este ejemplo se utilizara [Brave](https://brave.com/es/) como navegador, pero
  ![Se observa como aparece la extension que acabamos de cargar](https://i.imgur.com/GCjLCu0.png)
 
 
-### Contribuir
+### Contribucion
 Si deseas contribuir a este proyecto, puedes hacer lo siguiente:
 
 - Realizar pruebas de la aplicación y proporcionar retroalimentación.
@@ -118,6 +128,6 @@ Si deseas contribuir a este proyecto, puedes hacer lo siguiente:
 
 ### Licencia
 
-Este proyecto está bajo la licencia MIT.
+Este proyecto está bajo la licencia de Creative Commons
 
 
