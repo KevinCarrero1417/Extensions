@@ -17,7 +17,7 @@ El objetivo de cualquier extension es ofrecer, aportar o generar una herramienta
 
 <img src="https://i.ibb.co/r0kmFRZ/120200449-730024024215214-7725077185826725575-n-modified.png" align="right" style="width: 80px; height: 80px;" />
 
-### Darkisit
+### The Darkisit
 Darkisit es el desarrollo de una extension que cambia la paleta de colores de la plataforma Divisit, esta extension intercambia los estilos, colores y diseño de la plataforma a una tonalidad mas verde-oscura, simulando un efecto "Dark Mode" le da un nuevo diseño a la pagina, ademas, su objetivo principal es generar una nueva interfaz que sea saludable porque reduce la fatiga visual cuando se utilice en largas jornadas y/o se utilice en altas horas de la  noche
 
 ### Password Manager
@@ -27,13 +27,18 @@ Es una extension que permite el almacenamiento, recordatorio, escritura y lectur
 
 ## Tabla de Contenido 
 - [Darkisit](#darkisit)
-    + [Analisis y Diseño del Problema](#analisis_diseño)
+    + [Analisis y Diseño del plugin](#analisis_diseño)
     + [Arquitectura de la Extension](#arquitectura)
     + [Instalacion](#instalacion)
     + [Uso de la Extension](#ussage)
     + [FAQ'S](#faq)
-- [Arquitectura de una Extension en Google Chrome](#arquitectura)
-    + [Manifest.json](#manifest)
+    
+<img src="https://i.ibb.co/J3Wqw3x/shine-1.png" align="right" />
+
+# Darkisit   <img src="https://img.shields.io/static/v1?label=Autor&message=Marlon+Prado&color=%23007ACC&logo=Visual+Studio+Code&logoColor=%23007ACC" alt="Google Chrome Extension" />
+> A curated list of awesome READMEs
+
+Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
  
 
 
