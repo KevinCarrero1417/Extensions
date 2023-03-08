@@ -81,16 +81,16 @@ Pasos para utilizar la extension
 En este ejemplo se utilizara [Brave](https://brave.com/es/) como navegador, pero debe funcionar en cualquier navegador basado en [chromium](https://www.chromium.org/chromium-projects/)
 
 1)Debemos acceder a la pestaña de extensiones del navegador 
- ![Como acceder a la seccion de extensiones del navegador](https://drive.google.com/file/d/198uUt-1zT5bGrkjNj5Z5BhhcScP46Whu/view?usp=share_link)
+ ![Como acceder a la seccion de extensiones del navegador](https://i.imgur.com/zuP1EpB.png)
  
 2)Luego debemos activar el modo desarrollador y seleccionar la opcion cargar extension sin empaquetar
- ![habilitar modo desarrollador y seleccionamos cargar extension sin empaquetar](https://drive.google.com/file/d/1o1R8TAg81ll_q0IxsIIBPkcCt1_r8YKl/view?usp=share_link)
+ ![habilitar modo desarrollador y seleccionamos cargar extension sin empaquetar](https://i.imgur.com/4uP2VKp.png)
  
 3)Buscamos la carpeta que tiene la extension y la seleccionamos
- ![seleccionamos la carpeta que contiene la extension](https://drive.google.com/file/d/1oOm8m9uBTonuAMac0eblJscyCmweEPq9/view?usp=share_link)
+ ![seleccionamos la carpeta que contiene la extension](https://i.imgur.com/cj3PU2Y.png)
 
 4)Ahora debe aparecernos la extension que acabamos de seleccionar
- ![Se observa como aparece la extension que acabamos de cargar](https://drive.google.com/file/d/1TNLOqnxglymiAfEuBZewzDaUlbXKM6l2/view?usp=share_link)
+ ![Se observa como aparece la extension que acabamos de cargar](https://i.imgur.com/GCjLCu0.png)
 
 
 
