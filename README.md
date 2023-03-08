@@ -71,7 +71,25 @@ Ademas, una extension aparte de su  manifest.json donde describe informacion det
 # autores
 
 * Marlon Stiven Prado
-* Kevin Castro Carreño
+* Kevin Andres Carrero Castro
+    kevincarrero1417@gmail.com - kevinandresccas@ufps.edu.co 
+
+
+La extension de administracion de contraseñas "security key" Esta es una extension para navegadores basados en chromium que almacena las credenciales de inicio de sesion de las paginas que el usuario desee, y que mediante una unica contraseña podamos acceder a todas estas, con el proposito de poder utilizar contraseñas mejor elavoradas en nuestras otras cuentas, ya que por seguridad es mejor no utilizar las mismas credenciales en todas nuestras cuentas lo que trae como inconveniente el riesgo de olvidar algunas contraseñas. Mediante el uso de esta extension se busca utilizar una unica contraseña para poder tener acceso a las demas y no correr con el riesgo de olvidarlas.
+
+Pasos para utilizar la extension
+En este ejemplo se utilizara [Brave](https://brave.com/es/) como navegador, pero debe funcionar en cualquier navegador basado en [chromium](https://www.chromium.org/chromium-projects/)
+1)Debemos acceder a la pestaña de extensiones del navegador 
+ ![Como acceder a la seccion de extensiones del navegador](https://drive.google.com/file/d/198uUt-1zT5bGrkjNj5Z5BhhcScP46Whu/view?usp=share_link)
+ 
+2)Luego debemos activar el modo desarrollador y seleccionar la opcion cargar extension sin empaquetar
+ ![habilitar modo desarrollador y seleccionamos cargar extension sin empaquetar](https://drive.google.com/file/d/1o1R8TAg81ll_q0IxsIIBPkcCt1_r8YKl/view?usp=share_link)
+ 
+3)Buscamos la carpeta que tiene la extension y la seleccionamos
+ ![seleccionamos la carpeta que contiene la extension](https://drive.google.com/file/d/1oOm8m9uBTonuAMac0eblJscyCmweEPq9/view?usp=share_link)
+
+4)Ahora debe aparecernos la extension que acabamos de seleccionar
+ ![Se observa como aparece la extension que acabamos de cargar](https://drive.google.com/file/d/1TNLOqnxglymiAfEuBZewzDaUlbXKM6l2/view?usp=share_link)
 
 
 
