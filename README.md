@@ -36,9 +36,21 @@ Es una extension que permite el almacenamiento, recordatorio, escritura y lectur
 <img src="https://i.ibb.co/J3Wqw3x/shine-1.png" align="right" />
 
 # Darkisit   <img src="https://img.shields.io/static/v1?label=Autor&message=Marlon+Prado&color=%23007ACC&logo=Visual+Studio+Code&logoColor=%23007ACC" alt="Google Chrome Extension" />
+</br>
+![Darksity en accion](https://s2.gifyu.com/images/Video-sin-titulo--Hecho-con-Clipchamp.gif)
+> Darksity, mini - muestra de la ejecucion de la extension
 ## analisis_diseño
-Siendo una extension que soporta un cambio de colores a tonalidad mas agradable a la vista del usuario (Paleta de colores mas ocuras), tiene como objetivo beneficiar aquellos estudiantes que deseen ingresar a la plataforma Divisit, donde despues de ingresar sus credenciales, puedan acceder a la plataforma con un cambio de interfaz distinto, no obstante, para la correcta ejecucion de la extension es necesario tambien desarrollar ciertos criterios para velar el cumplimiento correcto de la extension, como lo es la resolucion de ciertas pantallas y/o temas como la compatibilidad, el anterior texto, no es mas sino un resumen de los actores, requerimientos funcionales y no funcionales del plugin de Darkisit
+Siendo una extension que soporta un cambio de colores a tonalidad mas agradable a la vista del usuario (Paleta de colores mas ocuras), tiene como objetivo beneficiar aquellos estudiantes que deseen ingresar a la plataforma Divisit, donde despues de ingresar sus credenciales, puedan acceder a la plataforma con un cambio de interfaz distinto, no obstante, para la correcta ejecucion de la extension es necesario tambien desarrollar ciertos criterios para velar el cumplimiento correcto de la extension, como lo es la resolucion de ciertas pantallas y/o temas como la compatibilidad, el anterior texto, no es mas sino un resumen de los actores, requerimientos funcionales y no funcionales del plugin de Darkisit, POR FAVOR CLICKEAR EL GIF DE AQUI ABAJO
+![Funcionalidades del plugin](https://s2.gifyu.com/images/FUNCIONALIDADES.gif)
+> Requerimientos funcionales y no funcionales del plugin Darkisit
 
+El desarrollo de cada unas de los procesos de la extension es comprensiblemente sencillo, a continuacion puedes visualizar un Diagrama de flujo animado que representa  
+![Diagrama de Flujo](https://s2.gifyu.com/images/FUNCIONALIDADES-1.gif)
+> Diagrama de Flujo de Darkisit, dar click a la imagen llegado el caso no se reproduzca
+
+## Instalacion
+
+Para instalar mi extension tiene 2 caminos, la primera manera e
 
 # extension
 ### significado 
