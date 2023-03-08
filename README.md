@@ -79,6 +79,7 @@ La extension de administracion de contraseñas "security key" Esta es una extens
 
 Pasos para utilizar la extension
 En este ejemplo se utilizara [Brave](https://brave.com/es/) como navegador, pero debe funcionar en cualquier navegador basado en [chromium](https://www.chromium.org/chromium-projects/)
+
 1)Debemos acceder a la pestaña de extensiones del navegador 
  ![Como acceder a la seccion de extensiones del navegador](https://drive.google.com/file/d/198uUt-1zT5bGrkjNj5Z5BhhcScP46Whu/view?usp=share_link)
  
