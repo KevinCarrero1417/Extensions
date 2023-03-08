@@ -36,7 +36,7 @@ Es una extension que permite el almacenamiento, recordatorio, escritura y lectur
 <img src="https://i.ibb.co/J3Wqw3x/shine-1.png" align="right" />
 
 # Darkisit   <img src="https://img.shields.io/static/v1?label=Autor&message=Marlon+Prado&color=%23007ACC&logo=Visual+Studio+Code&logoColor=%23007ACC" alt="Google Chrome Extension" />
-</br>
+
 ![Darksity en accion](https://s2.gifyu.com/images/Video-sin-titulo--Hecho-con-Clipchamp.gif)
 > Darksity, mini - muestra de la ejecucion de la extension
 ## analisis_diseño
@@ -61,14 +61,7 @@ TLa otra manera de descargar el repositorio es a traves de una instancia de la c
 Una vez clonado el repositorio, procederemos a instalar la extension, para ello en nuestro navegador chrome iremos a la siguiente URL
 <code>chrome://extensions/</code>
 
-Una vez abierto la interfaz de extensiones procederemos a instalar 
-# extension
-### significado 
-Una extension es una herramienta que permite ampliar o extender las funcionalidades del navegador, las extensiones aportan a la automatizacion de ciertas tareas como puede ser validacion de formulario, descarga de contenido mutilmedia, bodega de contraseñas, entre otros... Otras extensiones aportan en mejorar la experiencia de usuario como puede ser bloqueador de anuncios, aumentar la cantidad de volumen permitido, bloquear cookies o pop ups molestos, etc
-
-
-### problema
-
+Una vez abierto la interfaz de extensiones procederemos a importar la extension, una guia con mas detalles podras encontrar aqui abajo !
 
 # arquitectura
 
@@ -90,11 +83,6 @@ Manifiest.json no es un simple archivo de informacion en detalle, tambien abarca
 Ademas, una extension aparte de su  manifest.json donde describe informacion detallada de la extension, tambien se destaca por disponer de una arquitectura donde genera una jerarquia de almacenamiento de los ficheros y/o contenido que forma parte de la extension.
 ![arqui](https://wd.imgix.net/image/BhuKGJaIeLNPW9ehns59NfwqKxF2/Txq5CxeXjQz7i4wmP8zO.png?auto=format&w=439)
 > Jerarquia de almacenamiento de ficheros de una Extension en Google Chrome
-# autores
-
-* Marlon Stiven Prado
-* Kevin Andres Carrero Castro
-    kevincarrero1417@gmail.com - kevinandresccas@ufps.edu.co 
 
 
 La extension de administracion de contraseñas "security key" Esta es una extension para navegadores basados en chromium que almacena las credenciales de inicio de sesion de las paginas que el usuario desee, y que mediante una unica contraseña podamos acceder a todas estas, con el proposito de poder utilizar contraseñas mejor elavoradas en nuestras otras cuentas, ya que por seguridad es mejor no utilizar las mismas credenciales en todas nuestras cuentas lo que trae como inconveniente el riesgo de olvidar algunas contraseñas. Mediante el uso de esta extension se busca utilizar una unica contraseña para poder tener acceso a las demas y no correr con el riesgo de olvidarlas.
@@ -128,6 +116,6 @@ Si deseas contribuir a este proyecto, puedes hacer lo siguiente:
 
 ### Licencia
 
-Este proyecto está bajo la licencia de Creative Commons
+Este proyecto está bajo la licencia de Creative Commons, lbertad de acceso a cualquier publico este repositorio
 
 
