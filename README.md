@@ -36,12 +36,8 @@ Es una extension que permite el almacenamiento, recordatorio, escritura y lectur
 <img src="https://i.ibb.co/J3Wqw3x/shine-1.png" align="right" />
 
 # Darkisit   <img src="https://img.shields.io/static/v1?label=Autor&message=Marlon+Prado&color=%23007ACC&logo=Visual+Studio+Code&logoColor=%23007ACC" alt="Google Chrome Extension" />
-> A curated list of awesome READMEs
-
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
- 
-
-
+## analisis_diseño
+Siendo una extension que soporta un cambio de colores a tonalidad mas agradable a la vista del usuario (Paleta de colores mas ocuras), tiene como objetivo beneficiar aquellos estudiantes que deseen ingresar a la plataforma Divisit, donde despues de ingresar sus credenciales, puedan acceder a la plataforma con un cambio de interfaz distinto, no obstante, para la correcta ejecucion de la extension es necesario tambien desarrollar ciertos criterios para velar el cumplimiento correcto de la extension, como lo es la resolucion de ciertas pantallas y/o temas como la compatibilidad, el anterior texto, no es mas sino un resumen de los actores, requerimientos funcionales y no funcionales del plugin de Darkisit
 
 
 # extension
