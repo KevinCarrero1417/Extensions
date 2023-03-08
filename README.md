@@ -6,16 +6,16 @@
 <img src="https://img.shields.io/badge/Licencia-Creative_Commons-EF9421?style=for-the-badge&logo=Creative+Commons&logoColor=EF9421" alt="Google Chrome Extension" />
 <br>
 </div>
-_Bienvenido  a nuestro repositorio, Somos Marlon Prado y Kevin Castro, ¡ gusto saludar ! :floppy_disk:
+<br>
 
-:electric_plug:*Arquitectura de Software*  :memo:
 
+Una extension es una herramienta que permite ampliar o extender las funcionalidades del navegador, las extensiones aportan a la automatizacion de ciertas tareas como puede ser validacion de formulario, descarga de contenido mutilmedia, bodega de contraseñas, entre otros... Otras extensiones aportan en mejorar la experiencia de usuario como puede ser bloqueador de anuncios, aumentar la cantidad de volumen permitido, bloquear cookies o pop ups molestos, etc
+![alusion](https://www.hikeproject.com/wp-content/uploads/2021/12/google-chrome-extensions-977x4881-1.jpg)
+> Las extensiones, herramientas que extienden funcionalidades
 ## Tabla de Contenido 
-![alusion](https://s3.gifyu.com/images/developers-Conference.gif)
 - [Extension en Google Chrome](#extension)
     + [¿Que significa una extension?](#significado)
     + [¿Que problema se desea aportar o solventar?](#problema)
-
 - [Arquitectura de una Extension en Google Chrome](#arquitectura)
     + [Manifest.json](#manifest)
  
@@ -26,8 +26,7 @@ _Bienvenido  a nuestro repositorio, Somos Marlon Prado y Kevin Castro, ¡ gusto 
 # extension
 ### significado 
 Una extension es una herramienta que permite ampliar o extender las funcionalidades del navegador, las extensiones aportan a la automatizacion de ciertas tareas como puede ser validacion de formulario, descarga de contenido mutilmedia, bodega de contraseñas, entre otros... Otras extensiones aportan en mejorar la experiencia de usuario como puede ser bloqueador de anuncios, aumentar la cantidad de volumen permitido, bloquear cookies o pop ups molestos, etc
-![alusion](https://i.blogs.es/05b592/chrome/1366_2000.webp)
-> Complementos de extensiones de Google Chrome
+
 
 ### problema
 
