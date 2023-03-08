@@ -9,13 +9,29 @@
 <br>
 
 
-Una extension es una herramienta que permite ampliar o extender las funcionalidades del navegador, las extensiones aportan a la automatizacion de ciertas tareas como puede ser validacion de formulario, descarga de contenido mutilmedia, bodega de contraseñas, entre otros... Otras extensiones aportan en mejorar la experiencia de usuario como puede ser bloqueador de anuncios, aumentar la cantidad de volumen permitido, bloquear cookies o pop ups molestos, etc
+Una extension es una herramienta que permite ampliar o extender las funcionalidades del navegador, las extensiones aportan a la automatizacion de ciertas tareas por ejemplo: validacion de datos de un formulario, facilitar la descarga de contenido mutilmedia,  generar una bodega de seguridad de contraseñas, entre otros... Otras extensiones aportan en mejorar la experiencia de usuario como puede ser bloqueador de anuncios masivos, aumentar la cantidad de volumen del navegador, bloquear cookies o pop ups molestos, etc.
 ![alusion](https://www.hikeproject.com/wp-content/uploads/2021/12/google-chrome-extensions-977x4881-1.jpg)
 > Las extensiones, herramientas que extienden funcionalidades
+
+El objetivo de cualquier extension es ofrecer, aportar o generar una herramienta que pueda servir como apoyo al usuario final, en este repositorio encontrara 2 proyectos de desarrollo de extensiones para el navegador de Google Chrome, cada proyecto esta  descrito de manera general, a continuacion: 
+
+<img src="https://i.ibb.co/r0kmFRZ/120200449-730024024215214-7725077185826725575-n-modified.png" align="right" style="width: 80px; height: 80px;" />
+
+### Darkisit
+Darkisit es el desarrollo de una extension que cambia la paleta de colores de la plataforma Divisit, esta extension intercambia los estilos, colores y diseño de la plataforma a una tonalidad mas verde-oscura, simulando un efecto "Dark Mode" le da un nuevo diseño a la pagina, ademas, su objetivo principal es generar una nueva interfaz que sea saludable porque reduce la fatiga visual cuando se utilice en largas jornadas y/o se utilice en altas horas de la  noche
+
+### Password Manager
+<img src="https://i.ibb.co/7y2bsPX/92634862-102476924766517-9215421927835828224-n.jpg" align="left" style="width: 80px; height: 80px;" />
+Es una extension que permite el almacenamiento, recordatorio, escritura y lectura de claves con la finalidad que un usuario pueda acceder a las credenciales de sus diferentes cuentas, facilitando el acceso a su informacion de manera facil y segura, esta extension tiene como objetivo generar un conjunto de informacion personal para que el usuario pueda acceder a sus credenciales de manera flexible
+</div>
+
 ## Tabla de Contenido 
-- [Extension en Google Chrome](#extension)
-    + [¿Que significa una extension?](#significado)
-    + [¿Que problema se desea aportar o solventar?](#problema)
+- [Darkisit](#darkisit)
+    + [Analisis y Diseño del Problema](#analisis_diseño)
+    + [Arquitectura de la Extension](#arquitectura)
+    + [Instalacion](#instalacion)
+    + [Uso de la Extension](#ussage)
+    + [FAQ'S](#faq)
 - [Arquitectura de una Extension en Google Chrome](#arquitectura)
     + [Manifest.json](#manifest)
  
@@ -30,11 +46,7 @@ Una extension es una herramienta que permite ampliar o extender las funcionalida
 
 ### problema
 
-Una extension se desarrolla con la finalidad de promover, aportar o generar una herramienta que pueda ayudar o soportar al usuario final, durante el desarrollo de la actividad, cada miembro del Equipo desarollo una extension en base a diferentes puntos de vista y necesidades:
 
-El compañero Kevin Castro, desarrollo una extension que permite el almacenamiento y recordatorio seguro de claves y/o contraseñas, con la finalidad que el usuario pueda acceder a sus credenciales y recordarlas de una manera mas facil, segura y amigable con el usuario final.
-
-El compañero Marlon Prado, desarrollo una extension que permite el manejo de una paleta de colores oscura simulando un "Modo oscuro" para la plataforma Divisit, esta extension se activa automaticamente cuando se instala, permitiendo asi un modo oscuro que evita la fatiga o cansacio visual en altas horas de la noche
 # arquitectura
 
 La Arquitectura de una extension se basa principalmente de 4 componentes
