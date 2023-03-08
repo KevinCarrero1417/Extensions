@@ -97,14 +97,15 @@ En este ejemplo se utilizara [Brave](https://brave.com/es/) como navegador, pero
  ![Se observa como aparece la extension que acabamos de cargar](https://i.imgur.com/GCjLCu0.png)
 
 
-Contribuir
+### Contribuir
 Si deseas contribuir a este proyecto, puedes hacer lo siguiente:
 
-Realizar pruebas de la aplicación y proporcionar retroalimentación.
-Reportar problemas o errores que encuentres en la aplicación.
-Contribuir al código de la aplicación mediante la creación de solicitudes de extracción.
+- Realizar pruebas de la aplicación y proporcionar retroalimentación.
+- Reportar problemas o errores que encuentres en la aplicación.
+- Contribuir al código de la aplicación mediante la creación de solicitudes de extracción.
 
-Licencia
+### Licencia
+
 Este proyecto está bajo la licencia MIT.
 
 
