@@ -19,7 +19,7 @@ El objetivo de cualquier extension es ofrecer, aportar o generar una herramienta
 
 ### The Darkisit
 Darkisit es el desarrollo de una extension que cambia la paleta de colores de la plataforma Divisit, esta extension intercambia los estilos, colores y diseño de la plataforma a una tonalidad mas verde-oscura, simulando un efecto "Dark Mode" le da un nuevo diseño a la pagina, ademas, su objetivo principal es generar una nueva interfaz que sea saludable porque reduce la fatiga visual cuando se utilice en largas jornadas y/o se utilice en altas horas de la  noche
- https://s3.gifyu.com/images/developers-Conference.gif
+ 
 ### Password Manager
 <img src="https://i.ibb.co/7y2bsPX/92634862-102476924766517-9215421927835828224-n.jpg" align="left" style="width: 80px; height: 80px;" />
 Es una extension que permite el almacenamiento, recordatorio, escritura y lectura de claves con la finalidad que un usuario pueda acceder a las credenciales de sus diferentes cuentas, facilitando el acceso a su informacion de manera facil y segura, esta extension tiene como objetivo generar un conjunto de informacion personal para que el usuario pueda acceder a sus credenciales de manera flexible
@@ -31,7 +31,6 @@ Es una extension que permite el almacenamiento, recordatorio, escritura y lectur
     + [Arquitectura de la Extension](#arquitectura)
     + [Instalacion](#instalacion)
     + [Uso de la Extension](#ussage)
-    + [FAQ'S](#faq)
  - [passwordmanager](#passwordmanager)
  - [Creditos](#creditos)
  - [Licencia](#licencia)
@@ -42,10 +41,17 @@ Es una extension que permite el almacenamiento, recordatorio, escritura y lectur
 ![Darksity en accion](https://s2.gifyu.com/images/Video-sin-titulo--Hecho-con-Clipchamp.gif)
 > Darksity, mini - muestra de la ejecucion de la extension
 ## analisis_diseño
+
+### Funcionalidades
 Siendo una extension que soporta un cambio de colores a tonalidad mas agradable a la vista del usuario (Paleta de colores mas ocuras), tiene como objetivo beneficiar aquellos estudiantes que deseen ingresar a la plataforma Divisit, donde despues de ingresar sus credenciales, puedan acceder a la plataforma con un cambio de interfaz distinto, no obstante, para la correcta ejecucion de la extension es necesario tambien desarrollar ciertos criterios para velar el cumplimiento correcto de la extension, como lo es la resolucion de ciertas pantallas y/o temas como la compatibilidad, el anterior texto, no es mas sino un resumen de los actores, requerimientos funcionales y no funcionales del plugin de Darkisit, POR FAVOR CLICKEAR EL GIF DE AQUI ABAJO
 ![Funcionalidades del plugin](https://s2.gifyu.com/images/FUNCIONALIDADES.gif)
 > Requerimientos funcionales y no funcionales del plugin Darkisit
 
+### Actores
+![Actores del Sistema](https://i.ibb.co/BLJ5dTW/dk-drawio-1.png)
+> Actores del plugin
+
+### Flujo de procesos de la extension
 El desarrollo de cada unas de los procesos de la extension es comprensiblemente sencillo, a continuacion puedes visualizar un Diagrama de flujo animado que representa  
 ![Diagrama de Flujo](https://s2.gifyu.com/images/FUNCIONALIDADES-1.gif)
 > Diagrama de Flujo de Darkisit, dar click a la imagen llegado el caso no se reproduzca
@@ -92,6 +98,9 @@ Ademas, una extension aparte de su  manifest.json donde describe informacion det
 ![arqui](https://wd.imgix.net/image/BhuKGJaIeLNPW9ehns59NfwqKxF2/Txq5CxeXjQz7i4wmP8zO.png?auto=format&w=439)
 > Jerarquia de almacenamiento de ficheros de una Extension en Google Chrome
 
+Finalmente, concluimos con la jerarquia del proyecto de Darkisit, a continuacion se evidencia la estructura del codigo fuente
+![arqui](https://i.ibb.co/g47T03D/dk-drawio.png)
+> Jerarquia de almacenamiento de ficheros de una Extension en Google Chrome
 # passwordmanager
 ## Security Key (PasswordManager)
 La extension de administracion de contraseñas "security key" Esta es una extension para navegadores basados en chromium que almacena las credenciales de inicio de sesion de las paginas que el usuario desee, y que mediante una unica contraseña podamos acceder a todas estas, con el proposito de poder utilizar contraseñas mejor elavoradas en nuestras otras cuentas, ya que por seguridad es mejor no utilizar las mismas credenciales en todas nuestras cuentas lo que trae como inconveniente el riesgo de olvidar algunas contraseñas. Mediante el uso de esta extension se busca utilizar una unica contraseña para poder tener acceso a las demas y no correr con el riesgo de olvidarlas.
