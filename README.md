@@ -80,16 +80,20 @@ La extension de administracion de contraseñas "security key" Esta es una extens
 Pasos para utilizar la extension
 En este ejemplo se utilizara [Brave](https://brave.com/es/) como navegador, pero debe funcionar en cualquier navegador basado en [chromium](https://www.chromium.org/chromium-projects/)
 
-1)Debemos acceder a la pestaña de extensiones del navegador 
+1) Debemos acceder a la pestaña de extensiones del navegador.
+
  ![Como acceder a la seccion de extensiones del navegador](https://i.imgur.com/zuP1EpB.png)
  
-2)Luego debemos activar el modo desarrollador y seleccionar la opcion cargar extension sin empaquetar
+2) Luego debemos activar el modo desarrollador y seleccionar la opcion cargar extension sin empaquetar.
+
  ![habilitar modo desarrollador y seleccionamos cargar extension sin empaquetar](https://i.imgur.com/4uP2VKp.png)
  
-3)Buscamos la carpeta que tiene la extension y la seleccionamos
+3) Buscamos la carpeta que tiene la extension y la seleccionamos.
+
  ![seleccionamos la carpeta que contiene la extension](https://i.imgur.com/cj3PU2Y.png)
 
-4)Ahora debe aparecernos la extension que acabamos de seleccionar
+4) Ahora debe aparecernos la extension que acabamos de seleccionar.
+
  ![Se observa como aparece la extension que acabamos de cargar](https://i.imgur.com/GCjLCu0.png)
 
 
