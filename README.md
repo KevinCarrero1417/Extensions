@@ -32,11 +32,12 @@ Es una extension que permite el almacenamiento, recordatorio, escritura y lectur
     + [Instalacion](#instalacion)
     + [Uso de la Extension](#ussage)
     + [FAQ'S](#faq)
+ - [passwordmanager](#passwordmanager)
  - [Creditos](#creditos)
  - [Licencia](#licencia)
 <img src="https://i.ibb.co/J3Wqw3x/shine-1.png" align="right" />
 
-# Darkisit   <img src="https://img.shields.io/static/v1?label=Autor&message=Marlon+Prado&color=%23007ACC&logo=Visual+Studio+Code&logoColor=%23007ACC" alt="Google Chrome Extension" />
+# darkisit   <img src="https://img.shields.io/static/v1?label=Autor&message=Marlon+Prado&color=%23007ACC&logo=Visual+Studio+Code&logoColor=%23007ACC" alt="Google Chrome Extension" />
 
 ![Darksity en accion](https://s2.gifyu.com/images/Video-sin-titulo--Hecho-con-Clipchamp.gif)
 > Darksity, mini - muestra de la ejecucion de la extension
@@ -64,6 +65,12 @@ Una vez clonado el repositorio, procederemos a instalar la extension, para ello 
 
 Una vez abierto la interfaz de extensiones procederemos a importar la extension, una guia con mas detalles podras encontrar aqui abajo !
 
+# ussage
+La extension unicamente requiere aparte de su instalacion, solo acceder a la plataforma de [Divisit como estudiante](https://divisist2.ufps.edu.co/), te saldra una alerta en el navegador, con un mensaje de informacion de contacto, despues de clickear se activa dicha extension, aqui algunas capturas del desarrollo:
+|                                                                                    IU de Darkisit                                                                                    |                                                                                   Mensaje de Bienvenida                                                                                   |                                                                                Post-Mensaje                                                                                |                                                                             Tema Aplicado                                                                              |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://i.ibb.co/ry5X0Mv/1.png" title="Desktop App  Login " width="100%" crossorigin> | <img src="https://i.ibb.co/wJSWpSW/2.png" title="Mensaje Inicial" width="100%" crossorigin> | <img src="https://i.ibb.co/PN5tjFk/3.png" title="Post Mensaje" width="100%" crossorigin> | <img src="https://i.ibb.co/fQTj7fb/4.png" title="Tema Aplicado" width="100%" crossorigin> |
+
 # arquitectura
 <img src="https://s3.gifyu.com/images/developers-Conference.gif"  />
 La Arquitectura de una extension se basa principalmente de 4 componentes
@@ -85,7 +92,8 @@ Ademas, una extension aparte de su  manifest.json donde describe informacion det
 ![arqui](https://wd.imgix.net/image/BhuKGJaIeLNPW9ehns59NfwqKxF2/Txq5CxeXjQz7i4wmP8zO.png?auto=format&w=439)
 > Jerarquia de almacenamiento de ficheros de una Extension en Google Chrome
 
-
+# passwordmanager
+## Security Key (PasswordManager)
 La extension de administracion de contraseñas "security key" Esta es una extension para navegadores basados en chromium que almacena las credenciales de inicio de sesion de las paginas que el usuario desee, y que mediante una unica contraseña podamos acceder a todas estas, con el proposito de poder utilizar contraseñas mejor elavoradas en nuestras otras cuentas, ya que por seguridad es mejor no utilizar las mismas credenciales en todas nuestras cuentas lo que trae como inconveniente el riesgo de olvidar algunas contraseñas. Mediante el uso de esta extension se busca utilizar una unica contraseña para poder tener acceso a las demas y no correr con el riesgo de olvidarlas.
 
 Pasos para utilizar la extension
