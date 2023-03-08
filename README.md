@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://i.ibb.co/W5F9Bwc/shine-200-44-px-1.png" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a>Darkisit & PasswordManager<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://i.ibb.co/VLK8rq0/shine-200-44-px-200-43-px.png" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
+<h1 align="center"><a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://i.ibb.co/W5F9Bwc/shine-200-44-px-1.png" alt="Awesome GitHub Profiles - Best curated list of lopers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a>Darkisit & PasswordManager<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://i.ibb.co/VLK8rq0/shine-200-44-px-200-43-px.png" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <div align="center">
 <img src="https://img.shields.io/badge/Design-Awesone-FC60A8?style=for-the-badge&logo=Awesome+Lists&logoColor=FC60A8" alt="Awesome Badge"/>
 <img src="https://img.shields.io/badge/Autores-Marlon_%26_Kevin-2ea44f?style=for-the-badge&logo=Visual+Studio+Code" alt="Autores"/>
@@ -19,7 +19,7 @@ El objetivo de cualquier extension es ofrecer, aportar o generar una herramienta
 
 ### The Darkisit
 Darkisit es el desarrollo de una extension que cambia la paleta de colores de la plataforma Divisit, esta extension intercambia los estilos, colores y diseño de la plataforma a una tonalidad mas verde-oscura, simulando un efecto "Dark Mode" le da un nuevo diseño a la pagina, ademas, su objetivo principal es generar una nueva interfaz que sea saludable porque reduce la fatiga visual cuando se utilice en largas jornadas y/o se utilice en altas horas de la  noche
-
+ https://s3.gifyu.com/images/developers-Conference.gif
 ### Password Manager
 <img src="https://i.ibb.co/7y2bsPX/92634862-102476924766517-9215421927835828224-n.jpg" align="left" style="width: 80px; height: 80px;" />
 Es una extension que permite el almacenamiento, recordatorio, escritura y lectura de claves con la finalidad que un usuario pueda acceder a las credenciales de sus diferentes cuentas, facilitando el acceso a su informacion de manera facil y segura, esta extension tiene como objetivo generar un conjunto de informacion personal para que el usuario pueda acceder a sus credenciales de manera flexible
@@ -32,7 +32,8 @@ Es una extension que permite el almacenamiento, recordatorio, escritura y lectur
     + [Instalacion](#instalacion)
     + [Uso de la Extension](#ussage)
     + [FAQ'S](#faq)
-    
+ - [Creditos](#creditos)
+ - [Licencia](#licencia)
 <img src="https://i.ibb.co/J3Wqw3x/shine-1.png" align="right" />
 
 # Darkisit   <img src="https://img.shields.io/static/v1?label=Autor&message=Marlon+Prado&color=%23007ACC&logo=Visual+Studio+Code&logoColor=%23007ACC" alt="Google Chrome Extension" />
@@ -64,7 +65,7 @@ Una vez clonado el repositorio, procederemos a instalar la extension, para ello 
 Una vez abierto la interfaz de extensiones procederemos a importar la extension, una guia con mas detalles podras encontrar aqui abajo !
 
 # arquitectura
-
+<img src="https://s3.gifyu.com/images/developers-Conference.gif"  />
 La Arquitectura de una extension se basa principalmente de 4 componentes
  - HTML
  - CSS
@@ -123,6 +124,7 @@ Agradezco de corazon todos los aporte de los siguientes repositorios con una bre
 - [Closures Readme](https://github.com/vhesener/Closures#readme) por el diseño de codigo html, css, js y codigo de consola
 - [Bridges Io Badges](https://ileriayo.github.io/markdown-badges/) por la creacion de bradges / etiquetas que fueron utilizadas en la portada del repositorio
 
+### Licencia 
 Este proyecto está bajo la licencia de Creative Commons, lbertad de acceso a cualquier publico este repositorio
 
 
