@@ -54,7 +54,7 @@ Para instalar mi extension tiene 2 caminos, la primera manera es descargando de 
 ![Descarga Directa](https://i.ibb.co/sWQbpNB/1-click.png)
 > Descarga directa del repositorio en formato ZIP
 
-TLa otra manera de descargar el repositorio es a traves de una instancia de la consola de comando de git, si de casualidad no tienes git instalado, puedes decargarlo a traves del [siguiente enlace](https://git-scm.com/downloads). Una vez abierto y/o instalado y abierto una instancia del cmd, procederemos a ejecutar la siguiente linea de codigo:
+La otra manera de descargar el repositorio es a traves de una instancia de la consola de comando de git, si de casualidad no tienes git instalado, puedes decargarlo a traves del [siguiente enlace](https://git-scm.com/downloads). Una vez abierto y/o instalado y abierto una instancia del cmd, procederemos a ejecutar la siguiente linea de codigo:
 </br>
 <code>git clone https://github.com/KevinCarrero1417/Extensions.git</code>
 </br>
@@ -114,7 +114,14 @@ Si deseas contribuir a este proyecto, puedes hacer lo siguiente:
 - Reportar problemas o errores que encuentres en la aplicación.
 - Contribuir al código de la aplicación mediante la creación de solicitudes de extracción.
 
-### Licencia
+
+### Creditos 
+
+Agradezco de corazon todos los aporte de los siguientes repositorios con una breve descripcion de su aporte:
+- [Fieu Awesone](https://github.com/matiassingers/awesome-readme/blob/master/readme.md) por la manera de organizacion de los elementos graficos como posicion, tamaño,etc.
+- [Amplication Readme](https://github.com/amplication/amplication#readme) por la jerarquia y orden de titulos 1,2,3 y parrafos, que aportaron en la creacion de nuestra tabla de contenido
+- [Closures Readme](https://github.com/vhesener/Closures#readme) por el diseño de codigo html, css, js y codigo de consola
+- [Bridges Io Badges](https://ileriayo.github.io/markdown-badges/) por la creacion de bradges / etiquetas que fueron utilizadas en la portada del repositorio
 
 Este proyecto está bajo la licencia de Creative Commons, lbertad de acceso a cualquier publico este repositorio
 
